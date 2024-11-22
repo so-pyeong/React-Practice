@@ -17,7 +17,7 @@
 ![20241106_toolbar3](https://github.com/user-attachments/assets/faf63553-7cd7-4b42-b5ab-35f6d54d6737)
 
 ## 3️⃣투두리스트
-### 할일 추가 및 삭제                             ### 입력 경고창 띄우기
+### 할일 추가 및 삭제 / 입력 경고창 띄우기
 
-<image src = "https://github.com/user-attachments/assets/94208439-f966-41a7-bc6d-8307b27c64ce" width="40%" height="40%"> <image src = "https://github.com/user-attachments/assets/f10366a6-d04e-4d16-a807-0e363a5c864f" width="40%" height="40%">
+<image src = "https://github.com/user-attachments/assets/94208439-f966-41a7-bc6d-8307b27c64ce" width="40%" height="40%"> <image src = "https://github.com/user-attachments/assets/f10366a6-d04e-4d16-a807-0e363a5c864f" width="40%" height="60%">
 
